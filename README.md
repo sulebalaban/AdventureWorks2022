@@ -20,8 +20,10 @@ Download the AdventureWorks2022.bak file.
 
 Restore the database:
 
-Open SQL Server Management Studio (SSMS).
+Open Azure Data Studio.
 
-Right-click on Databases in Object Explorer and select Restore Database.
+Connect to your SQL Server instance.
+
+Right-click on Databases in the Server Explorer and select Restore.
 
 Choose the AdventureWorks2022.bak file and complete the restoration process.
